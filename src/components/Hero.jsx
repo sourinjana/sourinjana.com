@@ -49,7 +49,7 @@ export default function Hero() {
     <section id="top" className="hero">
       <div className="container hero-inner">
         <div className="hero-copy">
-          <p className="eyebrow">portfolio · 2026</p>
+          {/* <p className="eyebrow">portfolio · 2026</p> */}
           <h1 className="hero-title">
             Building reliable software,<br />one platform at a time.
           </h1>
